@@ -72,8 +72,12 @@ body{
     padding-bottom: 15px;
 }
 .purchase{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
     background-color: hsl(158, 36%, 37%);
-    /* color: white; */
+    color: white;
     border: none;
     border-radius: 8px;
     width: 100%;
